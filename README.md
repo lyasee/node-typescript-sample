@@ -1,2 +1,2 @@
 # node-typescript-sample
-Nodejs + typescript + express
+Nodejs + typescript + express + jest
